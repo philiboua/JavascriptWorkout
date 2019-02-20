@@ -1,2 +1,0 @@
-# JavascriptWorkout
-Created with CodeSandbox
